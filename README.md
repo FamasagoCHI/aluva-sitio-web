@@ -41,7 +41,7 @@ El sitio fue probado en diferentes tamaños de pantalla para comprobar su correc
 
 El sitio se encuentra publicado mediante Netlify.
 
-**Sitio web:** Pendiente de incorporar URL de Netlify.
+**Sitio web:** https://aluva-sitio-web.netlify.app
 
 ## Estructura principal
 
